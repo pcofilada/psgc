@@ -1,0 +1,14 @@
+{
+  "name": "pilipinas",
+  "version": "1.0.0",
+  "description": "Provides Philippine data.",
+  "main": "index.js",
+  "repository": "https://github.com/pcofilada/pilipinas",
+  "author": "Patrick Ofilada <pcofilada@gmail.com> (http://patrickofilada.com)",
+  "license": "MIT",
+  "keywords": [
+    "pilipinas",
+    "philippines",
+    "pinas"
+  ]
+}
