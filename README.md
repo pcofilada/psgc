@@ -1,5 +1,7 @@
 # Philippine Standard Geographic Code (PSGC)
 
+[![Build Status](https://travis-ci.org/pcofilada/psgc.svg?branch=master)](https://travis-ci.org/pcofilada/psgc)
+
 Provides PSGC (Philippine Standard Geographic Code) data for your application.
 
 ## Installation
@@ -17,7 +19,7 @@ Or you can use yarn.
 Import psgc into your app.
 
 ~~~ js
-import { regions, provinces, municipalities } from 'psgc';
+import { regions, provinces, municipalities, barangays } from 'psgc';
 ~~~
 
 Use `all` or `find` function to get the data you need.
@@ -31,12 +33,14 @@ provinces.find('La Union')
 
 municipalities.all()
 municipalities.find('Agoo')
+
+barangays.all()
+barangays.find('San Nicolas East')
 ~~~
 
 ## TODO
 
-* Add barangays
-* Add additional information about regions, provinces and municipalities
+* Add additional information about regions, provinces, municipalities and barangays
 * Add test
 
 ## Contributing
