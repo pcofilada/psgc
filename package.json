@@ -1,6 +1,6 @@
 {
   "name": "psgc",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Provides PSGC (Philippine Standard Geographic Code) data.",
   "main": "dist/index.js",
   "repository": "https://github.com/pcofilada/pilipinas",
