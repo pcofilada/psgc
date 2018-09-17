@@ -40,7 +40,7 @@ municipalities.filter('agoo')
 
 barangays.all()
 barangays.find('San Nicolas East')
-barangays.find('san nico')
+barangays.filter('san nico')
 
 
 ~~~
