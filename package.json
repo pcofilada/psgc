@@ -3,7 +3,7 @@
   "version": "1.1.2",
   "description": "Provides PSGC (Philippine Standard Geographic Code) data.",
   "main": "dist/index.js",
-  "repository": "https://github.com/pcofilada/pilipinas",
+  "repository": "https://github.com/pcofilada/psgc",
   "author": "Patrick Ofilada <pcofilada@gmail.com> (http://patrickofilada.com)",
   "license": "MIT",
   "keywords": [
