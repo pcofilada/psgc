@@ -1,8 +1,11 @@
 # Philippine Standard Geographic Code (PSGC)
 
-[![Build Status](https://travis-ci.org/pcofilada/psgc.svg?branch=master)](https://travis-ci.org/pcofilada/psgc)
-
 Provides PSGC (Philippine Standard Geographic Code) data for your application.
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=pcofilada_psgc&metric=alert_status)](https://sonarcloud.io/dashboard?id=pcofilada_psgc)
+![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational)
+![npm](https://img.shields.io/npm/v/psgc?color=brightgreen)
+![npm bundle size](https://img.shields.io/bundlephobia/min/psgc)
 
 ## Installation
 
@@ -18,37 +21,33 @@ Or you can use yarn.
 
 Import psgc into your app.
 
-~~~ js
-import { regions, provinces, municipalities, barangays } from 'psgc';
-~~~
+```js
+import { regions, provinces, municipalities, barangays } from "psgc";
+```
 
 Use the methods `all`, `find`, or `filter` to get the data you need.
 
-~~~ js
-regions.all()                         // To get all regions
-regions.find('Ilocos Region')         // To get a specific region, pass the exact region name
-regions.filter('loco')                // To get a list of all regions with names that contain the argument; case-insensitive
+```js
+regions.all(); // To get all regions
+regions.find("Ilocos Region"); // To get a specific region, pass the exact region name
+regions.filter("loco"); // To get a list of all regions with names that contain the argument; case-insensitive
 
-provinces.all()
-provinces.find('La Union')
-regions.filter('la u')
+provinces.all();
+provinces.find("La Union");
+regions.filter("la u");
 
-municipalities.all()
-municipalities.find('Agoo')
-municipalities.filter('agoo')
+municipalities.all();
+municipalities.find("Agoo");
+municipalities.filter("agoo");
 
-
-barangays.all()
-barangays.find('San Nicolas East')
-barangays.filter('san nico')
-
-
-~~~
+barangays.all();
+barangays.find("San Nicolas East");
+barangays.filter("san nico");
+```
 
 ## TODO
 
-* Add additional information about regions, provinces, municipalities and barangays
-* Add test
+- Add and update additional information about regions, provinces, municipalities and barangays
 
 ## Contributing
 
@@ -60,9 +59,5 @@ barangays.filter('san nico')
 
 ## Credits
 
-* [PSA Website](http://psa.gov.ph/)
-* [darklight721/philippines](https://github.com/darklight721/philippines)
-
-## License
-
-The package is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+- [PSA Website](http://psa.gov.ph/)
+- [darklight721/philippines](https://github.com/darklight721/philippines)

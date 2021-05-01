@@ -19,7 +19,7 @@
 
   { "name": "Bangued", "province": "Abra", "city": false },
   { "name": "Boliney", "province": "Abra", "city": false },
-  { "name": "Bucay", "province": "Abra", "city": false  },
+  { "name": "Bucay", "province": "Abra", "city": false },
   { "name": "Bucloc", "province": "Abra", "city": false },
   { "name": "Daguioman", "province": "Abra", "city": false },
   { "name": "Danglas", "province": "Abra", "city": false },
@@ -382,7 +382,11 @@
   { "name": "Cuyapo", "province": "Nueva Ecija", "city": false },
   { "name": "Gabaldon", "province": "Nueva Ecija", "city": false },
   { "name": "Gapan", "province": "Nueva Ecija", "city": true },
-  { "name": "General Mamerto Natividad", "province": "Nueva Ecija", "city": false },
+  {
+    "name": "General Mamerto Natividad",
+    "province": "Nueva Ecija",
+    "city": false
+  },
   { "name": "General Tinio", "province": "Nueva Ecija", "city": false },
   { "name": "Guimba", "province": "Nueva Ecija", "city": false },
   { "name": "Jaen", "province": "Nueva Ecija", "city": false },
@@ -922,7 +926,11 @@
   { "name": "Calatrava", "province": "Negros Occidental", "city": false },
   { "name": "Candoni", "province": "Negros Occidental", "city": false },
   { "name": "Cauayan", "province": "Negros Occidental", "city": false },
-  { "name": "Enrique B. Magalona", "province": "Negros Occidental", "city": false },
+  {
+    "name": "Enrique B. Magalona",
+    "province": "Negros Occidental",
+    "city": false
+  },
   { "name": "Escalante", "province": "Negros Occidental", "city": true },
   { "name": "Himamaylan", "province": "Negros Occidental", "city": true },
   { "name": "Hinigaran", "province": "Negros Occidental", "city": false },
@@ -938,7 +946,11 @@
   { "name": "Pontevedra", "province": "Negros Occidental", "city": false },
   { "name": "Pulupandan", "province": "Negros Occidental", "city": false },
   { "name": "Sagay", "province": "Negros Occidental", "city": true },
-  { "name": "Salvador Benedicto", "province": "Negros Occidental", "city": false },
+  {
+    "name": "Salvador Benedicto",
+    "province": "Negros Occidental",
+    "city": false
+  },
   { "name": "San Carlos", "province": "Negros Occidental", "city": true },
   { "name": "San Enrique", "province": "Negros Occidental", "city": false },
   { "name": "Silay", "province": "Negros Occidental", "city": true },
@@ -1186,7 +1198,7 @@
   { "name": "Silvino Lobos", "province": "Northern Samar", "city": false },
   { "name": "Victoria", "province": "Northern Samar", "city": false },
 
-  { "name": "Almagro", "province": "Samar (Western Samar)" , "city": false},
+  { "name": "Almagro", "province": "Samar (Western Samar)", "city": false },
   { "name": "Basey", "province": "Samar (Western Samar)", "city": false },
   { "name": "Calbayog", "province": "Samar (Western Samar)", "city": true },
   { "name": "Calbiga", "province": "Samar (Western Samar)", "city": false },
@@ -1202,9 +1214,21 @@
   { "name": "Paranas", "province": "Samar (Western Samar)", "city": false },
   { "name": "Pinabacdao", "province": "Samar (Western Samar)", "city": false },
   { "name": "San Jorge", "province": "Samar (Western Samar)", "city": false },
-  { "name": "San Jose De Buan", "province": "Samar (Western Samar)", "city": false },
-  { "name": "San Sebastian", "province": "Samar (Western Samar)", "city": false },
-  { "name": "Santa Margarita", "province": "Samar (Western Samar)", "city": false },
+  {
+    "name": "San Jose De Buan",
+    "province": "Samar (Western Samar)",
+    "city": false
+  },
+  {
+    "name": "San Sebastian",
+    "province": "Samar (Western Samar)",
+    "city": false
+  },
+  {
+    "name": "Santa Margarita",
+    "province": "Samar (Western Samar)",
+    "city": false
+  },
   { "name": "Santa Rita", "province": "Samar (Western Samar)", "city": false },
   { "name": "Santo Niño", "province": "Samar (Western Samar)", "city": false },
   { "name": "Tagapul-an", "province": "Samar (Western Samar)", "city": false },
@@ -1249,10 +1273,18 @@
   { "name": "Mutia", "province": "Zamboanga Del Norte", "city": false },
   { "name": "Piñan", "province": "Zamboanga Del Norte", "city": false },
   { "name": "Polanco", "province": "Zamboanga Del Norte", "city": false },
-  { "name": "President Manuel A. Roxas", "province": "Zamboanga Del Norte", "city": false },
+  {
+    "name": "President Manuel A. Roxas",
+    "province": "Zamboanga Del Norte",
+    "city": false
+  },
   { "name": "Rizal", "province": "Zamboanga Del Norte", "city": false },
   { "name": "Salug", "province": "Zamboanga Del Norte", "city": false },
-  { "name": "Sergio Osmeña Sr.", "province": "Zamboanga Del Norte", "city": false },
+  {
+    "name": "Sergio Osmeña Sr.",
+    "province": "Zamboanga Del Norte",
+    "city": false
+  },
   { "name": "Siayan", "province": "Zamboanga Del Norte", "city": false },
   { "name": "Sibuco", "province": "Zamboanga Del Norte", "city": false },
   { "name": "Sibutad", "province": "Zamboanga Del Norte", "city": false },
@@ -1287,7 +1319,11 @@
   { "name": "Tambulig", "province": "Zamboanga Del Sur", "city": false },
   { "name": "Tigbao", "province": "Zamboanga Del Sur", "city": false },
   { "name": "Tukuran", "province": "Zamboanga Del Sur", "city": false },
-  { "name": "Vincenzo A. Sagun", "province": "Zamboanga Del Sur", "city": false },
+  {
+    "name": "Vincenzo A. Sagun",
+    "province": "Zamboanga Del Sur",
+    "city": false
+  },
   { "name": "Zamboanga", "province": "Zamboanga Del Sur", "city": true },
 
   { "name": "Alicia", "province": "Zamboanga Sibugay", "city": false },
@@ -1355,7 +1391,11 @@
   { "name": "Poona Piagapo", "province": "Lanao Del Norte", "city": false },
   { "name": "Salvador", "province": "Lanao Del Norte", "city": false },
   { "name": "Sapad", "province": "Lanao Del Norte", "city": false },
-  { "name": "Sultan Naga Dimaporo", "province": "Lanao Del Norte", "city": false },
+  {
+    "name": "Sultan Naga Dimaporo",
+    "province": "Lanao Del Norte",
+    "city": false
+  },
   { "name": "Tagoloan", "province": "Lanao Del Norte", "city": false },
   { "name": "Tangcal", "province": "Lanao Del Norte", "city": false },
   { "name": "Tubod", "province": "Lanao Del Norte", "city": false },
@@ -1366,7 +1406,11 @@
   { "name": "Calamba", "province": "Misamis Occidental", "city": false },
   { "name": "Clarin", "province": "Misamis Occidental", "city": false },
   { "name": "Concepcion", "province": "Misamis Occidental", "city": false },
-  { "name": "Don Victoriano Chiongbian", "province": "Misamis Occidental", "city": false },
+  {
+    "name": "Don Victoriano Chiongbian",
+    "province": "Misamis Occidental",
+    "city": false
+  },
   { "name": "Jimenez", "province": "Misamis Occidental", "city": false },
   { "name": "Lopez Jaena", "province": "Misamis Occidental", "city": false },
   { "name": "Oroquieta", "province": "Misamis Occidental", "city": true },
@@ -1509,7 +1553,11 @@
   { "name": "Lutayan", "province": "Sultan Kudarat", "city": false },
   { "name": "Palimbang", "province": "Sultan Kudarat", "city": false },
   { "name": "President Quirino", "province": "Sultan Kudarat", "city": false },
-  { "name": "Senator Ninoy Aquino", "province": "Sultan Kudarat", "city": false },
+  {
+    "name": "Senator Ninoy Aquino",
+    "province": "Sultan Kudarat",
+    "city": false
+  },
   { "name": "Tacurong", "province": "Sultan Kudarat", "city": true },
 
   { "name": "Buenavista", "province": "Agusan Del Norte", "city": false },
@@ -1521,7 +1569,11 @@
   { "name": "Las Nieves", "province": "Agusan Del Norte", "city": false },
   { "name": "Magallanes", "province": "Agusan Del Norte", "city": false },
   { "name": "Nasipit", "province": "Agusan Del Norte", "city": false },
-  { "name": "Remedios T. Romualdez", "province": "Agusan Del Norte", "city": false },
+  {
+    "name": "Remedios T. Romualdez",
+    "province": "Agusan Del Norte",
+    "city": false
+  },
   { "name": "Santiago", "province": "Agusan Del Norte", "city": false },
   { "name": "Tubay", "province": "Agusan Del Norte", "city": false },
 
