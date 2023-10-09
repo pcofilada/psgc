@@ -16,7 +16,6 @@
   { "name": "San Juan", "province": "Metro Manila", "city": true },
   { "name": "Taguig", "province": "Metro Manila", "city": true },
   { "name": "Valenzuela", "province": "Metro Manila", "city": true },
-
   { "name": "Bangued", "province": "Abra", "city": false },
   { "name": "Boliney", "province": "Abra", "city": false },
   { "name": "Bucay", "province": "Abra", "city": false },
@@ -44,7 +43,6 @@
   { "name": "Tineg", "province": "Abra", "city": false },
   { "name": "Tubo", "province": "Abra", "city": false },
   { "name": "Villaviciosa", "province": "Abra", "city": false },
-
   { "name": "Calanasan", "province": "Apayao", "city": false },
   { "name": "Conner", "province": "Apayao", "city": false },
   { "name": "Flora", "province": "Apayao", "city": false },
@@ -52,7 +50,6 @@
   { "name": "Luna", "province": "Apayao", "city": false },
   { "name": "Pudtol", "province": "Apayao", "city": false },
   { "name": "Santa Marcela", "province": "Apayao", "city": false },
-
   { "name": "Atok", "province": "Benguet", "city": false },
   { "name": "Baguio", "province": "Benguet", "city": true },
   { "name": "Bakun", "province": "Benguet", "city": false },
@@ -67,7 +64,6 @@
   { "name": "Sablan", "province": "Benguet", "city": false },
   { "name": "Tuba", "province": "Benguet", "city": false },
   { "name": "Tublay", "province": "Benguet", "city": false },
-
   { "name": "Aguinaldo", "province": "Ifugao", "city": false },
   { "name": "Alfonso Lista", "province": "Ifugao", "city": false },
   { "name": "Asipulo", "province": "Ifugao", "city": false },
@@ -79,7 +75,6 @@
   { "name": "Lamut", "province": "Ifugao", "city": false },
   { "name": "Mayoyao", "province": "Ifugao", "city": false },
   { "name": "Tinoc", "province": "Ifugao", "city": false },
-
   { "name": "Balbalan", "province": "Kalinga", "city": false },
   { "name": "Lubuagan", "province": "Kalinga", "city": false },
   { "name": "Pasil", "province": "Kalinga", "city": false },
@@ -88,7 +83,6 @@
   { "name": "Tabuk", "province": "Kalinga", "city": true },
   { "name": "Tanudan", "province": "Kalinga", "city": false },
   { "name": "Tinglayan", "province": "Kalinga", "city": false },
-
   { "name": "Barlig", "province": "Mountain Province", "city": false },
   { "name": "Bauko", "province": "Mountain Province", "city": false },
   { "name": "Besao", "province": "Mountain Province", "city": false },
@@ -99,7 +93,6 @@
   { "name": "Sadanga", "province": "Mountain Province", "city": false },
   { "name": "Sagada", "province": "Mountain Province", "city": false },
   { "name": "Tadian", "province": "Mountain Province", "city": false },
-
   { "name": "Adams", "province": "Ilocos Norte", "city": false },
   { "name": "Bacarra", "province": "Ilocos Norte", "city": false },
   { "name": "Badoc", "province": "Ilocos Norte", "city": false },
@@ -123,7 +116,6 @@
   { "name": "Sarrat", "province": "Ilocos Norte", "city": false },
   { "name": "Solsona", "province": "Ilocos Norte", "city": false },
   { "name": "Vintar", "province": "Ilocos Norte", "city": false },
-
   { "name": "Alilem", "province": "Ilocos Sur", "city": false },
   { "name": "Banayoyo", "province": "Ilocos Sur", "city": false },
   { "name": "Bantay", "province": "Ilocos Sur", "city": false },
@@ -158,7 +150,6 @@
   { "name": "Suyo", "province": "Ilocos Sur", "city": false },
   { "name": "Tagudin", "province": "Ilocos Sur", "city": false },
   { "name": "Vigan", "province": "Ilocos Sur", "city": true },
-
   { "name": "Agoo", "province": "La Union", "city": false },
   { "name": "Aringay", "province": "La Union", "city": false },
   { "name": "Bacnotan", "province": "La Union", "city": false },
@@ -179,7 +170,6 @@
   { "name": "Santol", "province": "La Union", "city": false },
   { "name": "Sudipen", "province": "La Union", "city": false },
   { "name": "Tubao", "province": "La Union", "city": false },
-
   { "name": "Agno", "province": "Pangasinan", "city": false },
   { "name": "Aguilar", "province": "Pangasinan", "city": false },
   { "name": "Alaminos", "province": "Pangasinan", "city": true },
@@ -228,14 +218,12 @@
   { "name": "Urdaneta", "province": "Pangasinan", "city": true },
   { "name": "Urbiztondo", "province": "Pangasinan", "city": false },
   { "name": "Villasis", "province": "Pangasinan", "city": false },
-
   { "name": "Basco", "province": "Batanes", "city": false },
   { "name": "Itbayat", "province": "Batanes", "city": false },
   { "name": "Ivana", "province": "Batanes", "city": false },
   { "name": "Mahatao", "province": "Batanes", "city": false },
   { "name": "Sabtang", "province": "Batanes", "city": false },
   { "name": "Uyugan", "province": "Batanes", "city": false },
-
   { "name": "Abulug", "province": "Cagayan", "city": false },
   { "name": "Alcala", "province": "Cagayan", "city": false },
   { "name": "Allacapan", "province": "Cagayan", "city": false },
@@ -265,7 +253,6 @@
   { "name": "Solana", "province": "Cagayan", "city": false },
   { "name": "Tuao", "province": "Cagayan", "city": false },
   { "name": "Tuguegarao", "province": "Cagayan", "city": true },
-
   { "name": "Alicia", "province": "Isabela", "city": false },
   { "name": "Angadanan", "province": "Isabela", "city": false },
   { "name": "Aurora", "province": "Isabela", "city": false },
@@ -303,7 +290,6 @@
   { "name": "Santiago", "province": "Isabela", "city": true },
   { "name": "Santo Tomas", "province": "Isabela", "city": false },
   { "name": "Tumauini", "province": "Isabela", "city": false },
-
   { "name": "Alfonso Castaneda", "province": "Nueva Vizcaya", "city": false },
   { "name": "Ambaguio", "province": "Nueva Vizcaya", "city": false },
   { "name": "Aritao", "province": "Nueva Vizcaya", "city": false },
@@ -319,14 +305,12 @@
   { "name": "Santa Fe", "province": "Nueva Vizcaya", "city": false },
   { "name": "Solano", "province": "Nueva Vizcaya", "city": false },
   { "name": "Villaverde", "province": "Nueva Vizcaya", "city": false },
-
   { "name": "Aglipay", "province": "Quirino", "city": false },
   { "name": "Cabarroguis", "province": "Quirino", "city": false },
   { "name": "Diffun", "province": "Quirino", "city": false },
   { "name": "Maddela", "province": "Quirino", "city": false },
   { "name": "Nagtipunan", "province": "Quirino", "city": false },
   { "name": "Saguday", "province": "Quirino", "city": false },
-
   { "name": "Baler", "province": "Aurora", "city": false },
   { "name": "Casiguran", "province": "Aurora", "city": false },
   { "name": "Dilasag", "province": "Aurora", "city": false },
@@ -335,7 +319,6 @@
   { "name": "Dipaculao", "province": "Aurora", "city": false },
   { "name": "Maria Aurora", "province": "Aurora", "city": false },
   { "name": "San Luis", "province": "Aurora", "city": false },
-
   { "name": "Abucay", "province": "Bataan", "city": false },
   { "name": "Bagac", "province": "Bataan", "city": false },
   { "name": "Balanga", "province": "Bataan", "city": true },
@@ -348,7 +331,6 @@
   { "name": "Orion", "province": "Bataan", "city": false },
   { "name": "Pilar", "province": "Bataan", "city": false },
   { "name": "Samal", "province": "Bataan", "city": false },
-
   { "name": "Angat", "province": "Bulacan", "city": false },
   { "name": "Balagtas", "province": "Bulacan", "city": false },
   { "name": "Baliuag", "province": "Bulacan", "city": false },
@@ -373,7 +355,6 @@
   { "name": "San Miguel", "province": "Bulacan", "city": false },
   { "name": "San Rafael", "province": "Bulacan", "city": false },
   { "name": "Santa Maria", "province": "Bulacan", "city": false },
-
   { "name": "Aliaga", "province": "Nueva Ecija", "city": false },
   { "name": "Bongabon", "province": "Nueva Ecija", "city": false },
   { "name": "Cabanatuan", "province": "Nueva Ecija", "city": true },
@@ -383,9 +364,9 @@
   { "name": "Gabaldon", "province": "Nueva Ecija", "city": false },
   { "name": "Gapan", "province": "Nueva Ecija", "city": true },
   {
-    "name": "General Mamerto Natividad",
-    "province": "Nueva Ecija",
-    "city": false
+      "name": "General Mamerto Natividad",
+      "province": "Nueva Ecija",
+      "city": false
   },
   { "name": "General Tinio", "province": "Nueva Ecija", "city": false },
   { "name": "Guimba", "province": "Nueva Ecija", "city": false },
@@ -410,7 +391,6 @@
   { "name": "Talavera", "province": "Nueva Ecija", "city": false },
   { "name": "Talugtug", "province": "Nueva Ecija", "city": false },
   { "name": "Zaragoza", "province": "Nueva Ecija", "city": false },
-
   { "name": "Angeles", "province": "Pampanga", "city": true },
   { "name": "Apalit", "province": "Pampanga", "city": false },
   { "name": "Arayat", "province": "Pampanga", "city": false },
@@ -433,7 +413,6 @@
   { "name": "Santa Rita", "province": "Pampanga", "city": false },
   { "name": "Santo Tomas", "province": "Pampanga", "city": false },
   { "name": "Sasmuan", "province": "Pampanga", "city": false },
-
   { "name": "Anao", "province": "Tarlac", "city": false },
   { "name": "Bamban", "province": "Tarlac", "city": false },
   { "name": "Camiling", "province": "Tarlac", "city": false },
@@ -452,7 +431,6 @@
   { "name": "Santa Ignacia", "province": "Tarlac", "city": false },
   { "name": "Tarlac", "province": "Tarlac", "city": true },
   { "name": "Victoria", "province": "Tarlac", "city": false },
-
   { "name": "Botolan", "province": "Zambales", "city": false },
   { "name": "Cabangan", "province": "Zambales", "city": false },
   { "name": "Candelaria", "province": "Zambales", "city": false },
@@ -467,7 +445,6 @@
   { "name": "San Narciso", "province": "Zambales", "city": false },
   { "name": "Santa Cruz", "province": "Zambales", "city": false },
   { "name": "Subic", "province": "Zambales", "city": false },
-
   { "name": "Agoncillo", "province": "Batangas", "city": false },
   { "name": "Alitagtag", "province": "Batangas", "city": false },
   { "name": "Balayan", "province": "Batangas", "city": false },
@@ -502,7 +479,6 @@
   { "name": "Taysan", "province": "Batangas", "city": false },
   { "name": "Tingloy", "province": "Batangas", "city": false },
   { "name": "Tuy", "province": "Batangas", "city": false },
-
   { "name": "Alfonso", "province": "Cavite", "city": false },
   { "name": "Amadeo", "province": "Cavite", "city": false },
   { "name": "Bacoor", "province": "Cavite", "city": true },
@@ -526,7 +502,6 @@
   { "name": "Tanza", "province": "Cavite", "city": false },
   { "name": "Ternate", "province": "Cavite", "city": false },
   { "name": "Trece Martires", "province": "Cavite", "city": true },
-
   { "name": "Alaminos", "province": "Laguna", "city": false },
   { "name": "Bay", "province": "Laguna", "city": false },
   { "name": "Biñan", "province": "Laguna", "city": true },
@@ -557,7 +532,6 @@
   { "name": "Santa Rosa", "province": "Laguna", "city": true },
   { "name": "Siniloan", "province": "Laguna", "city": false },
   { "name": "Victoria", "province": "Laguna", "city": false },
-
   { "name": "Agdangan", "province": "Quezon", "city": false },
   { "name": "Alabat", "province": "Quezon", "city": false },
   { "name": "Atimonan", "province": "Quezon", "city": false },
@@ -599,7 +573,6 @@
   { "name": "Tayabas", "province": "Quezon", "city": true },
   { "name": "Tiaong", "province": "Quezon", "city": false },
   { "name": "Unisan", "province": "Quezon", "city": false },
-
   { "name": "Angono", "province": "Rizal", "city": false },
   { "name": "Antipolo", "province": "Rizal", "city": true },
   { "name": "Baras", "province": "Rizal", "city": false },
@@ -614,14 +587,12 @@
   { "name": "Tanay", "province": "Rizal", "city": false },
   { "name": "Taytay", "province": "Rizal", "city": false },
   { "name": "Teresa", "province": "Rizal", "city": false },
-
   { "name": "Boac", "province": "Marinduque", "city": false },
   { "name": "Buenavista", "province": "Marinduque", "city": false },
   { "name": "Gasan", "province": "Marinduque", "city": false },
   { "name": "Mogpog", "province": "Marinduque", "city": false },
   { "name": "Santa Cruz", "province": "Marinduque", "city": false },
   { "name": "Torrijos", "province": "Marinduque", "city": false },
-
   { "name": "Abra de Ilog", "province": "Occidental Mindoro", "city": false },
   { "name": "Calintaan", "province": "Occidental Mindoro", "city": false },
   { "name": "Looc", "province": "Occidental Mindoro", "city": false },
@@ -633,7 +604,6 @@
   { "name": "Sablayan", "province": "Occidental Mindoro", "city": false },
   { "name": "San Jose", "province": "Occidental Mindoro", "city": false },
   { "name": "Santa Cruz", "province": "Occidental Mindoro", "city": false },
-
   { "name": "Baco", "province": "Oriental Mindoro", "city": false },
   { "name": "Bansud", "province": "Oriental Mindoro", "city": false },
   { "name": "Bongabong", "province": "Oriental Mindoro", "city": false },
@@ -649,7 +619,6 @@
   { "name": "San Teodoro", "province": "Oriental Mindoro", "city": false },
   { "name": "Socorro", "province": "Oriental Mindoro", "city": false },
   { "name": "Victoria", "province": "Oriental Mindoro", "city": false },
-
   { "name": "Aborlan", "province": "Palawan", "city": false },
   { "name": "Agutaya", "province": "Palawan", "city": false },
   { "name": "Araceli", "province": "Palawan", "city": false },
@@ -674,7 +643,6 @@
   { "name": "San Vicente", "province": "Palawan", "city": false },
   { "name": "Sofronio Española", "province": "Palawan", "city": false },
   { "name": "Taytay", "province": "Palawan", "city": false },
-
   { "name": "Alcantara", "province": "Romblon", "city": false },
   { "name": "Banton", "province": "Romblon", "city": false },
   { "name": "Cajidiocan", "province": "Romblon", "city": false },
@@ -692,7 +660,6 @@
   { "name": "San Jose", "province": "Romblon", "city": false },
   { "name": "Santa Fe", "province": "Romblon", "city": false },
   { "name": "Santa Maria", "province": "Romblon", "city": false },
-
   { "name": "Bacacay", "province": "Albay", "city": false },
   { "name": "Camalig", "province": "Albay", "city": false },
   { "name": "Daraga", "province": "Albay", "city": false },
@@ -711,7 +678,6 @@
   { "name": "Santo Domingo", "province": "Albay", "city": false },
   { "name": "Tabaco", "province": "Albay", "city": true },
   { "name": "Tiwi", "province": "Albay", "city": false },
-
   { "name": "Basud", "province": "Camarines Norte", "city": false },
   { "name": "Capalonga", "province": "Camarines Norte", "city": false },
   { "name": "Daet", "province": "Camarines Norte", "city": false },
@@ -724,7 +690,6 @@
   { "name": "Santa Elena", "province": "Camarines Norte", "city": false },
   { "name": "Talisay", "province": "Camarines Norte", "city": false },
   { "name": "Vinzons", "province": "Camarines Norte", "city": false },
-
   { "name": "Baao", "province": "Camarines Sur", "city": false },
   { "name": "Balatan", "province": "Camarines Sur", "city": false },
   { "name": "Bato", "province": "Camarines Sur", "city": false },
@@ -762,7 +727,6 @@
   { "name": "Siruma", "province": "Camarines Sur", "city": false },
   { "name": "Tigaon", "province": "Camarines Sur", "city": false },
   { "name": "Tinambac", "province": "Camarines Sur", "city": false },
-
   { "name": "Bagamanoc", "province": "Catanduanes", "city": false },
   { "name": "Baras", "province": "Catanduanes", "city": false },
   { "name": "Bato", "province": "Catanduanes", "city": false },
@@ -774,7 +738,6 @@
   { "name": "San Miguel", "province": "Catanduanes", "city": false },
   { "name": "Viga", "province": "Catanduanes", "city": false },
   { "name": "Virac", "province": "Catanduanes", "city": false },
-
   { "name": "Aroroy", "province": "Masbate", "city": false },
   { "name": "Baleno", "province": "Masbate", "city": false },
   { "name": "Balud", "province": "Masbate", "city": false },
@@ -796,7 +759,6 @@
   { "name": "San Jacinto", "province": "Masbate", "city": false },
   { "name": "San Pascual", "province": "Masbate", "city": false },
   { "name": "Uson", "province": "Masbate", "city": false },
-
   { "name": "Barcelona", "province": "Sorsogon", "city": false },
   { "name": "Bulan", "province": "Sorsogon", "city": false },
   { "name": "Bulusan", "province": "Sorsogon", "city": false },
@@ -812,7 +774,6 @@
   { "name": "Prieto Diaz", "province": "Sorsogon", "city": false },
   { "name": "Santa Magdalena", "province": "Sorsogon", "city": false },
   { "name": "Sorsogon", "province": "Sorsogon", "city": true },
-
   { "name": "Altavas", "province": "Aklan", "city": false },
   { "name": "Balete", "province": "Aklan", "city": false },
   { "name": "Banga", "province": "Aklan", "city": false },
@@ -830,7 +791,6 @@
   { "name": "New Washington", "province": "Aklan", "city": false },
   { "name": "Numancia", "province": "Aklan", "city": false },
   { "name": "Tangalan", "province": "Aklan", "city": false },
-
   { "name": "Anini-y", "province": "Antique", "city": false },
   { "name": "Barbaza", "province": "Antique", "city": false },
   { "name": "Belison", "province": "Antique", "city": false },
@@ -849,7 +809,6 @@
   { "name": "Tibiao", "province": "Antique", "city": false },
   { "name": "Tobias Fornier", "province": "Antique", "city": false },
   { "name": "Valderrama", "province": "Antique", "city": false },
-
   { "name": "Cuartero", "province": "Capiz", "city": false },
   { "name": "Dao", "province": "Capiz", "city": false },
   { "name": "Dumalag", "province": "Capiz", "city": false },
@@ -867,13 +826,11 @@
   { "name": "Sapi-An", "province": "Capiz", "city": false },
   { "name": "Sigma", "province": "Capiz", "city": false },
   { "name": "Tapaz", "province": "Capiz", "city": false },
-
   { "name": "Buenavista", "province": "Guimaras", "city": false },
   { "name": "Jordan", "province": "Guimaras", "city": false },
   { "name": "Nueva Valencia", "province": "Guimaras", "city": false },
   { "name": "San Lorenzo", "province": "Guimaras", "city": false },
   { "name": "Sibunag", "province": "Guimaras", "city": false },
-
   { "name": "Ajuy", "province": "Iloilo", "city": false },
   { "name": "Alimodian", "province": "Iloilo", "city": false },
   { "name": "Anilao", "province": "Iloilo", "city": false },
@@ -918,7 +875,6 @@
   { "name": "Tigbauan", "province": "Iloilo", "city": false },
   { "name": "Tubungan", "province": "Iloilo", "city": false },
   { "name": "Zarraga", "province": "Iloilo", "city": false },
-
   { "name": "Bacolod", "province": "Negros Occidental", "city": true },
   { "name": "Bago", "province": "Negros Occidental", "city": true },
   { "name": "Binalbagan", "province": "Negros Occidental", "city": false },
@@ -927,9 +883,9 @@
   { "name": "Candoni", "province": "Negros Occidental", "city": false },
   { "name": "Cauayan", "province": "Negros Occidental", "city": false },
   {
-    "name": "Enrique B. Magalona",
-    "province": "Negros Occidental",
-    "city": false
+      "name": "Enrique B. Magalona",
+      "province": "Negros Occidental",
+      "city": false
   },
   { "name": "Escalante", "province": "Negros Occidental", "city": true },
   { "name": "Himamaylan", "province": "Negros Occidental", "city": true },
@@ -947,9 +903,9 @@
   { "name": "Pulupandan", "province": "Negros Occidental", "city": false },
   { "name": "Sagay", "province": "Negros Occidental", "city": true },
   {
-    "name": "Salvador Benedicto",
-    "province": "Negros Occidental",
-    "city": false
+      "name": "Salvador Benedicto",
+      "province": "Negros Occidental",
+      "city": false
   },
   { "name": "San Carlos", "province": "Negros Occidental", "city": true },
   { "name": "San Enrique", "province": "Negros Occidental", "city": false },
@@ -959,7 +915,6 @@
   { "name": "Toboso", "province": "Negros Occidental", "city": false },
   { "name": "Valladolid", "province": "Negros Occidental", "city": false },
   { "name": "Victorias", "province": "Negros Occidental", "city": true },
-
   { "name": "Alburquerque", "province": "Bohol", "city": false },
   { "name": "Alicia", "province": "Bohol", "city": false },
   { "name": "Anda", "province": "Bohol", "city": false },
@@ -1008,7 +963,6 @@
   { "name": "Tubigon", "province": "Bohol", "city": false },
   { "name": "Ubay", "province": "Bohol", "city": false },
   { "name": "Valencia", "province": "Bohol", "city": false },
-
   { "name": "Alcantara", "province": "Cebu", "city": false },
   { "name": "Alcoy", "province": "Cebu", "city": false },
   { "name": "Alegria", "province": "Cebu", "city": false },
@@ -1062,7 +1016,6 @@
   { "name": "Toledo", "province": "Cebu", "city": true },
   { "name": "Tuburan", "province": "Cebu", "city": false },
   { "name": "Tudela", "province": "Cebu", "city": false },
-
   { "name": "Amlan", "province": "Negros Oriental", "city": false },
   { "name": "Ayungon", "province": "Negros Oriental", "city": false },
   { "name": "Bacong", "province": "Negros Oriental", "city": false },
@@ -1088,14 +1041,12 @@
   { "name": "Valencia", "province": "Negros Oriental", "city": false },
   { "name": "Vallehermoso", "province": "Negros Oriental", "city": false },
   { "name": "Zamboanguita", "province": "Negros Oriental", "city": false },
-
   { "name": "Enrique Villanueva", "province": "Siquijor", "city": false },
   { "name": "Larena", "province": "Siquijor", "city": false },
   { "name": "Lazi", "province": "Siquijor", "city": false },
   { "name": "Maria", "province": "Siquijor", "city": false },
   { "name": "San Juan", "province": "Siquijor", "city": false },
   { "name": "Siquijor", "province": "Siquijor", "city": false },
-
   { "name": "Almeria", "province": "Biliran", "city": false },
   { "name": "Biliran", "province": "Biliran", "city": false },
   { "name": "Cabucgayan", "province": "Biliran", "city": false },
@@ -1104,7 +1055,6 @@
   { "name": "Kawayan", "province": "Biliran", "city": false },
   { "name": "Maripipi", "province": "Biliran", "city": false },
   { "name": "Naval", "province": "Biliran", "city": false },
-
   { "name": "Arteche", "province": "Eastern Samar", "city": false },
   { "name": "Balangiga", "province": "Eastern Samar", "city": false },
   { "name": "Balangkayan", "province": "Eastern Samar", "city": false },
@@ -1128,7 +1078,6 @@
   { "name": "San Policarpo", "province": "Eastern Samar", "city": false },
   { "name": "Sulat", "province": "Eastern Samar", "city": false },
   { "name": "Taft", "province": "Eastern Samar", "city": false },
-
   { "name": "Abuyog", "province": "Leyte", "city": false },
   { "name": "Alangalang", "province": "Leyte", "city": false },
   { "name": "Albuera", "province": "Leyte", "city": false },
@@ -1172,7 +1121,6 @@
   { "name": "Tolosa", "province": "Leyte", "city": false },
   { "name": "Tunga", "province": "Leyte", "city": false },
   { "name": "Villaba", "province": "Leyte", "city": false },
-
   { "name": "Allen", "province": "Northern Samar", "city": false },
   { "name": "Biri", "province": "Northern Samar", "city": false },
   { "name": "Bobon", "province": "Northern Samar", "city": false },
@@ -1197,7 +1145,6 @@
   { "name": "San Vicente", "province": "Northern Samar", "city": false },
   { "name": "Silvino Lobos", "province": "Northern Samar", "city": false },
   { "name": "Victoria", "province": "Northern Samar", "city": false },
-
   { "name": "Almagro", "province": "Samar (Western Samar)", "city": false },
   { "name": "Basey", "province": "Samar (Western Samar)", "city": false },
   { "name": "Calbayog", "province": "Samar (Western Samar)", "city": true },
@@ -1215,19 +1162,19 @@
   { "name": "Pinabacdao", "province": "Samar (Western Samar)", "city": false },
   { "name": "San Jorge", "province": "Samar (Western Samar)", "city": false },
   {
-    "name": "San Jose De Buan",
-    "province": "Samar (Western Samar)",
-    "city": false
+      "name": "San Jose De Buan",
+      "province": "Samar (Western Samar)",
+      "city": false
   },
   {
-    "name": "San Sebastian",
-    "province": "Samar (Western Samar)",
-    "city": false
+      "name": "San Sebastian",
+      "province": "Samar (Western Samar)",
+      "city": false
   },
   {
-    "name": "Santa Margarita",
-    "province": "Samar (Western Samar)",
-    "city": false
+      "name": "Santa Margarita",
+      "province": "Samar (Western Samar)",
+      "city": false
   },
   { "name": "Santa Rita", "province": "Samar (Western Samar)", "city": false },
   { "name": "Santo Niño", "province": "Samar (Western Samar)", "city": false },
@@ -1236,7 +1183,6 @@
   { "name": "Tarangnan", "province": "Samar (Western Samar)", "city": false },
   { "name": "Villareal", "province": "Samar (Western Samar)", "city": false },
   { "name": "Zumarraga", "province": "Samar (Western Samar)", "city": false },
-
   { "name": "Anahawan", "province": "Southern Leyte", "city": false },
   { "name": "Bontoc", "province": "Southern Leyte", "city": false },
   { "name": "Hinunangan", "province": "Southern Leyte", "city": false },
@@ -1256,7 +1202,6 @@
   { "name": "Silago", "province": "Southern Leyte", "city": false },
   { "name": "Sogod", "province": "Southern Leyte", "city": false },
   { "name": "Tomas Oppus", "province": "Southern Leyte", "city": false },
-
   { "name": "Bacungan", "province": "Zamboanga Del Norte", "city": false },
   { "name": "Baliguian", "province": "Zamboanga Del Norte", "city": false },
   { "name": "Dapitan", "province": "Zamboanga Del Norte", "city": true },
@@ -1274,16 +1219,16 @@
   { "name": "Piñan", "province": "Zamboanga Del Norte", "city": false },
   { "name": "Polanco", "province": "Zamboanga Del Norte", "city": false },
   {
-    "name": "President Manuel A. Roxas",
-    "province": "Zamboanga Del Norte",
-    "city": false
+      "name": "President Manuel A. Roxas",
+      "province": "Zamboanga Del Norte",
+      "city": false
   },
   { "name": "Rizal", "province": "Zamboanga Del Norte", "city": false },
   { "name": "Salug", "province": "Zamboanga Del Norte", "city": false },
   {
-    "name": "Sergio Osmeña Sr.",
-    "province": "Zamboanga Del Norte",
-    "city": false
+      "name": "Sergio Osmeña Sr.",
+      "province": "Zamboanga Del Norte",
+      "city": false
   },
   { "name": "Siayan", "province": "Zamboanga Del Norte", "city": false },
   { "name": "Sibuco", "province": "Zamboanga Del Norte", "city": false },
@@ -1292,7 +1237,6 @@
   { "name": "Siocon", "province": "Zamboanga Del Norte", "city": false },
   { "name": "Sirawai", "province": "Zamboanga Del Norte", "city": false },
   { "name": "Tampilisan", "province": "Zamboanga Del Norte", "city": false },
-
   { "name": "Aurora", "province": "Zamboanga Del Sur", "city": false },
   { "name": "Bayog", "province": "Zamboanga Del Sur", "city": false },
   { "name": "Dimataling", "province": "Zamboanga Del Sur", "city": false },
@@ -1320,12 +1264,11 @@
   { "name": "Tigbao", "province": "Zamboanga Del Sur", "city": false },
   { "name": "Tukuran", "province": "Zamboanga Del Sur", "city": false },
   {
-    "name": "Vincenzo A. Sagun",
-    "province": "Zamboanga Del Sur",
-    "city": false
+      "name": "Vincenzo A. Sagun",
+      "province": "Zamboanga Del Sur",
+      "city": false
   },
   { "name": "Zamboanga", "province": "Zamboanga Del Sur", "city": true },
-
   { "name": "Alicia", "province": "Zamboanga Sibugay", "city": false },
   { "name": "Buug", "province": "Zamboanga Sibugay", "city": false },
   { "name": "Diplahan", "province": "Zamboanga Sibugay", "city": false },
@@ -1342,7 +1285,6 @@
   { "name": "Talusan", "province": "Zamboanga Sibugay", "city": false },
   { "name": "Titay", "province": "Zamboanga Sibugay", "city": false },
   { "name": "Tungawan", "province": "Zamboanga Sibugay", "city": false },
-
   { "name": "Baungon", "province": "Bukidnon", "city": false },
   { "name": "Cabanglasan", "province": "Bukidnon", "city": false },
   { "name": "Damulog", "province": "Bukidnon", "city": false },
@@ -1365,13 +1307,11 @@
   { "name": "Sumilao", "province": "Bukidnon", "city": false },
   { "name": "Talakag", "province": "Bukidnon", "city": false },
   { "name": "Valencia", "province": "Bukidnon", "city": true },
-
   { "name": "Catarman", "province": "Camiguin", "city": false },
   { "name": "Guinsiliban", "province": "Camiguin", "city": false },
   { "name": "Mahinog", "province": "Camiguin", "city": false },
   { "name": "Mambajao", "province": "Camiguin", "city": false },
   { "name": "Sagay", "province": "Camiguin", "city": false },
-
   { "name": "Bacolod", "province": "Lanao Del Norte", "city": false },
   { "name": "Baloi", "province": "Lanao Del Norte", "city": false },
   { "name": "Baroy", "province": "Lanao Del Norte", "city": false },
@@ -1392,14 +1332,13 @@
   { "name": "Salvador", "province": "Lanao Del Norte", "city": false },
   { "name": "Sapad", "province": "Lanao Del Norte", "city": false },
   {
-    "name": "Sultan Naga Dimaporo",
-    "province": "Lanao Del Norte",
-    "city": false
+      "name": "Sultan Naga Dimaporo",
+      "province": "Lanao Del Norte",
+      "city": false
   },
   { "name": "Tagoloan", "province": "Lanao Del Norte", "city": false },
   { "name": "Tangcal", "province": "Lanao Del Norte", "city": false },
   { "name": "Tubod", "province": "Lanao Del Norte", "city": false },
-
   { "name": "Aloran", "province": "Misamis Occidental", "city": false },
   { "name": "Baliangao", "province": "Misamis Occidental", "city": false },
   { "name": "Bonifacio", "province": "Misamis Occidental", "city": false },
@@ -1407,9 +1346,9 @@
   { "name": "Clarin", "province": "Misamis Occidental", "city": false },
   { "name": "Concepcion", "province": "Misamis Occidental", "city": false },
   {
-    "name": "Don Victoriano Chiongbian",
-    "province": "Misamis Occidental",
-    "city": false
+      "name": "Don Victoriano Chiongbian",
+      "province": "Misamis Occidental",
+      "city": false
   },
   { "name": "Jimenez", "province": "Misamis Occidental", "city": false },
   { "name": "Lopez Jaena", "province": "Misamis Occidental", "city": false },
@@ -1421,7 +1360,6 @@
   { "name": "Sinacaban", "province": "Misamis Occidental", "city": false },
   { "name": "Tangub", "province": "Misamis Occidental", "city": true },
   { "name": "Tudela", "province": "Misamis Occidental", "city": false },
-
   { "name": "Alubijid", "province": "Misamis Oriental", "city": false },
   { "name": "Balingasag", "province": "Misamis Oriental", "city": false },
   { "name": "Balingoan", "province": "Misamis Oriental", "city": false },
@@ -1448,7 +1386,6 @@
   { "name": "Tagoloan", "province": "Misamis Oriental", "city": false },
   { "name": "Talisayan", "province": "Misamis Oriental", "city": false },
   { "name": "Villanueva", "province": "Misamis Oriental", "city": false },
-
   { "name": "Compostela", "province": "Compostela Valley", "city": false },
   { "name": "Laak", "province": "Compostela Valley", "city": false },
   { "name": "Mabini", "province": "Compostela Valley", "city": false },
@@ -1460,7 +1397,6 @@
   { "name": "Nabunturan", "province": "Compostela Valley", "city": false },
   { "name": "New Bataan", "province": "Compostela Valley", "city": false },
   { "name": "Pantukan", "province": "Compostela Valley", "city": false },
-
   { "name": "Asuncion", "province": "Davao Del Norte", "city": false },
   { "name": "Braulio E. Dujali", "province": "Davao Del Norte", "city": false },
   { "name": "Carmen", "province": "Davao Del Norte", "city": false },
@@ -1472,7 +1408,6 @@
   { "name": "Santo Tomas", "province": "Davao Del Norte", "city": false },
   { "name": "Tagum", "province": "Davao Del Norte", "city": true },
   { "name": "Talaingod", "province": "Davao Del Norte", "city": false },
-
   { "name": "Bansalan", "province": "Davao Del Sur", "city": false },
   { "name": "Davao", "province": "Davao Del Sur", "city": true },
   { "name": "Digos", "province": "Davao Del Sur", "city": true },
@@ -1484,13 +1419,11 @@
   { "name": "Padada", "province": "Davao Del Sur", "city": false },
   { "name": "Santa Cruz", "province": "Davao Del Sur", "city": false },
   { "name": "Sulop", "province": "Davao Del Sur", "city": false },
-
   { "name": "Don Marcelino", "province": "Davao Occidental", "city": false },
   { "name": "Jose Abad Santos", "province": "Davao Occidental", "city": false },
   { "name": "Malita", "province": "Davao Occidental", "city": false },
   { "name": "Santa Maria", "province": "Davao Occidental", "city": false },
   { "name": "Sarangani", "province": "Davao Occidental", "city": false },
-
   { "name": "Baganga", "province": "Davao Oriental", "city": false },
   { "name": "Banaybanay", "province": "Davao Oriental", "city": false },
   { "name": "Boston", "province": "Davao Oriental", "city": false },
@@ -1502,26 +1435,24 @@
   { "name": "Mati", "province": "Davao Oriental", "city": true },
   { "name": "San Isidro", "province": "Davao Oriental", "city": false },
   { "name": "Tarragona", "province": "Davao Oriental", "city": false },
-
-  { "name": "Alamada", "province": "Cotabato", "city": false },
-  { "name": "Aleosan", "province": "Cotabato", "city": false },
+  { "name": "Alamada", "province": "North Cotabato", "city": false },
+  { "name": "Aleosan", "province": "North Cotabato", "city": false },
   { "name": "Antipas", "province": "Cotabato", "city": false },
   { "name": "Arakan", "province": "Cotabato", "city": false },
   { "name": "Banisilan", "province": "Cotabato", "city": false },
-  { "name": "Carmen", "province": "Cotabato", "city": false },
-  { "name": "Kabacan", "province": "Cotabato", "city": false },
+  { "name": "Carmen", "province": "North Cotabato", "city": false },
+  { "name": "Kabacan", "province": "North Cotabato", "city": false },
   { "name": "Kidapawan", "province": "Cotabato", "city": true },
   { "name": "Libungan", "province": "Cotabato", "city": false },
-  { "name": "M'lang", "province": "Cotabato", "city": false },
+  { "name": "M'lang", "province": "North Cotabato", "city": false },
   { "name": "Magpet", "province": "Cotabato", "city": false },
   { "name": "Makilala", "province": "Cotabato", "city": false },
-  { "name": "Matalam", "province": "Cotabato", "city": false },
-  { "name": "Midsayap", "province": "Cotabato", "city": false },
-  { "name": "Pigkawayan", "province": "Cotabato", "city": false },
-  { "name": "Pikit", "province": "Cotabato", "city": false },
+  { "name": "Matalam", "province": "North Cotabato", "city": false },
+  { "name": "Midsayap", "province": "North Cotabato", "city": false },
+  { "name": "Pigkawayan", "province": "North Cotabato", "city": false },
+  { "name": "Pikit", "province": "North Cotabato", "city": false },
   { "name": "President Roxas", "province": "Cotabato", "city": false },
   { "name": "Tulunan", "province": "Cotabato", "city": false },
-
   { "name": "Alabel", "province": "Sarangani", "city": false },
   { "name": "Glan", "province": "Sarangani", "city": false },
   { "name": "Kiamba", "province": "Sarangani", "city": false },
@@ -1529,7 +1460,6 @@
   { "name": "Maitum", "province": "Sarangani", "city": false },
   { "name": "Malapatan", "province": "Sarangani", "city": false },
   { "name": "Malungon", "province": "Sarangani", "city": false },
-
   { "name": "Banga", "province": "South Cotabato", "city": false },
   { "name": "General Santos", "province": "South Cotabato", "city": true },
   { "name": "Koronadal", "province": "South Cotabato", "city": true },
@@ -1542,7 +1472,6 @@
   { "name": "Tampakan", "province": "South Cotabato", "city": false },
   { "name": "Tantangan", "province": "South Cotabato", "city": false },
   { "name": "Tupi", "province": "South Cotabato", "city": false },
-
   { "name": "Bagumbayan", "province": "Sultan Kudarat", "city": false },
   { "name": "Columbio", "province": "Sultan Kudarat", "city": false },
   { "name": "Esperanza", "province": "Sultan Kudarat", "city": false },
@@ -1554,12 +1483,11 @@
   { "name": "Palimbang", "province": "Sultan Kudarat", "city": false },
   { "name": "President Quirino", "province": "Sultan Kudarat", "city": false },
   {
-    "name": "Senator Ninoy Aquino",
-    "province": "Sultan Kudarat",
-    "city": false
+      "name": "Senator Ninoy Aquino",
+      "province": "Sultan Kudarat",
+      "city": false
   },
   { "name": "Tacurong", "province": "Sultan Kudarat", "city": true },
-
   { "name": "Buenavista", "province": "Agusan Del Norte", "city": false },
   { "name": "Butuan", "province": "Agusan Del Norte", "city": true },
   { "name": "Cabadbaran", "province": "Agusan Del Norte", "city": true },
@@ -1570,13 +1498,12 @@
   { "name": "Magallanes", "province": "Agusan Del Norte", "city": false },
   { "name": "Nasipit", "province": "Agusan Del Norte", "city": false },
   {
-    "name": "Remedios T. Romualdez",
-    "province": "Agusan Del Norte",
-    "city": false
+      "name": "Remedios T. Romualdez",
+      "province": "Agusan Del Norte",
+      "city": false
   },
   { "name": "Santiago", "province": "Agusan Del Norte", "city": false },
   { "name": "Tubay", "province": "Agusan Del Norte", "city": false },
-
   { "name": "Bayugan", "province": "Agusan Del Sur", "city": true },
   { "name": "Bunawan", "province": "Agusan Del Sur", "city": false },
   { "name": "Esperanza", "province": "Agusan Del Sur", "city": false },
@@ -1591,7 +1518,6 @@
   { "name": "Talacogon", "province": "Agusan Del Sur", "city": false },
   { "name": "Trento", "province": "Agusan Del Sur", "city": false },
   { "name": "Veruela", "province": "Agusan Del Sur", "city": false },
-
   { "name": "Basilisa", "province": "Dinagat Islands", "city": false },
   { "name": "Cagdianao", "province": "Dinagat Islands", "city": false },
   { "name": "Dinagat", "province": "Dinagat Islands", "city": false },
@@ -1599,7 +1525,6 @@
   { "name": "Loreto", "province": "Dinagat Islands", "city": false },
   { "name": "San Jose", "province": "Dinagat Islands", "city": false },
   { "name": "Tubajon", "province": "Dinagat Islands", "city": false },
-
   { "name": "Alegria", "province": "Surigao Del Norte", "city": false },
   { "name": "Bacuag", "province": "Surigao Del Norte", "city": false },
   { "name": "Burgos", "province": "Surigao Del Norte", "city": false },
@@ -1621,7 +1546,6 @@
   { "name": "Surigao", "province": "Surigao Del Norte", "city": true },
   { "name": "Tagana-an", "province": "Surigao Del Norte", "city": false },
   { "name": "Tubod", "province": "Surigao Del Norte", "city": false },
-
   { "name": "Barobo", "province": "Surigao Del Sur", "city": false },
   { "name": "Bayabas", "province": "Surigao Del Sur", "city": false },
   { "name": "Bislig", "province": "Surigao Del Sur", "city": true },
@@ -1641,7 +1565,6 @@
   { "name": "Tagbina", "province": "Surigao Del Sur", "city": false },
   { "name": "Tago", "province": "Surigao Del Sur", "city": false },
   { "name": "Tandag", "province": "Surigao Del Sur", "city": true },
-
   { "name": "Akbar", "province": "Basilan", "city": false },
   { "name": "Al-Barka", "province": "Basilan", "city": false },
   { "name": "Hadji Mohammad Ajul", "province": "Basilan", "city": false },
@@ -1654,15 +1577,14 @@
   { "name": "Tipo-Tipo", "province": "Basilan", "city": false },
   { "name": "Tuburan", "province": "Basilan", "city": false },
   { "name": "Ungkaya Pukan", "province": "Basilan", "city": false },
-
-  { "name": "Bacolod-Kalawi", "province": "Lanao Del Sur", "city": false },
+  { "name": "Bacolod-Kalawi (Bacolod-Grande)", "province": "Lanao Del Sur", "city": false },
   { "name": "Balabagan", "province": "Lanao Del Sur", "city": false },
-  { "name": "Balindong", "province": "Lanao Del Sur", "city": false },
+  { "name": "Balindong (Watu)", "province": "Lanao Del Sur", "city": false },
   { "name": "Bayang", "province": "Lanao Del Sur", "city": false },
   { "name": "Binidayan", "province": "Lanao Del Sur", "city": false },
   { "name": "Buadiposo-Buntong", "province": "Lanao Del Sur", "city": false },
   { "name": "Bubong", "province": "Lanao Del Sur", "city": false },
-  { "name": "Bumbaran", "province": "Lanao Del Sur", "city": false },
+  { "name": "Bumbaran (Amai Manibalang)", "province": "Lanao Del Sur", "city": false },
   { "name": "Butig", "province": "Lanao Del Sur", "city": false },
   { "name": "Calanogas", "province": "Lanao Del Sur", "city": false },
   { "name": "Ditsaan-Ramain", "province": "Lanao Del Sur", "city": false },
@@ -1695,44 +1617,44 @@
   { "name": "Tubaran", "province": "Lanao Del Sur", "city": false },
   { "name": "Tugaya", "province": "Lanao Del Sur", "city": false },
   { "name": "Wao", "province": "Lanao Del Sur", "city": false },
-
-  { "name": "Ampatuan", "province": "Maguindanao" },
-  { "name": "Barira", "province": "Maguindanao" },
-  { "name": "Buldon", "province": "Maguindanao" },
-  { "name": "Buluan", "province": "Maguindanao" },
-  { "name": "Datu Abdullah Sangki", "province": "Maguindanao" },
-  { "name": "Datu Anggal Midtimbang", "province": "Maguindanao" },
-  { "name": "Datu Blah T. Sinsuat", "province": "Maguindanao" },
-  { "name": "Datu Hoffer Ampatuan", "province": "Maguindanao" },
-  { "name": "Datu Odin Sinsuat", "province": "Maguindanao" },
-  { "name": "Datu Paglas", "province": "Maguindanao" },
-  { "name": "Datu Piang", "province": "Maguindanao" },
-  { "name": "Datu Salibo", "province": "Maguindanao" },
-  { "name": "Datu Saudi-Ampatuan", "province": "Maguindanao" },
-  { "name": "Datu Unsay", "province": "Maguindanao" },
-  { "name": "General Salipada K. Pendatun", "province": "Maguindanao" },
-  { "name": "Guindulungan", "province": "Maguindanao" },
-  { "name": "Kabuntalan", "province": "Maguindanao" },
-  { "name": "Mamasapano", "province": "Maguindanao" },
-  { "name": "Mangudadatu", "province": "Maguindanao" },
-  { "name": "Matanog", "province": "Maguindanao" },
-  { "name": "Northern Kabuntalan", "province": "Maguindanao" },
-  { "name": "Pagagawan", "province": "Maguindanao" },
-  { "name": "Pagalungan", "province": "Maguindanao" },
-  { "name": "Paglat", "province": "Maguindanao" },
-  { "name": "Pandag", "province": "Maguindanao" },
-  { "name": "Parang", "province": "Maguindanao" },
-  { "name": "Rajah Buayan", "province": "Maguindanao" },
-  { "name": "Shariff Aguak", "province": "Maguindanao" },
-  { "name": "Shariff Saydona Mustapha", "province": "Maguindanao" },
-  { "name": "South Upi", "province": "Maguindanao" },
-  { "name": "Sultan Kudarat", "province": "Maguindanao" },
-  { "name": "Sultan Mastura", "province": "Maguindanao" },
-  { "name": "Sultan Sa Barongis", "province": "Maguindanao" },
-  { "name": "Talayan", "province": "Maguindanao" },
-  { "name": "Talitay", "province": "Maguindanao" },
-  { "name": "Upi", "province": "Maguindanao" },
-
+  { "name": "Ampatuan", "province": "Maguindanao del Sur" },
+  { "name": "Barira", "province": "Maguindanao del Norte" },
+  { "name": "Buldon", "province": "Maguindanao del Norte" },
+  { "name": "Buluan", "province": "Maguindanao del Sur" },
+  { "name": "Cotabato City", "province": "Maguindanao del Norte" },
+  { "name": "Datu Abdullah Sangki", "province": "Maguindanao del Sur" },
+  { "name": "Datu Anggal Midtimbang", "province": "Maguindanao del Sur" },
+  { "name": "Datu Blah T. Sinsuat", "province": "Maguindanao del Norte" },
+  { "name": "Datu Hoffer Ampatuan", "province": "Maguindanao del Sur" },
+  { "name": "Datu Odin Sinsuat", "province": "Maguindanao del Norte" },
+  { "name": "Datu Paglas", "province": "Maguindanao del Sur" },
+  { "name": "Datu Piang", "province": "Maguindanao del Sur" },
+  { "name": "Datu Salibo", "province": "Maguindanao del Sur" },
+  { "name": "Datu Saudi-Ampatuan", "province": "Maguindanao del Sur" },
+  { "name": "Datu Montawal", "province": "Maguindanao del Sur" },
+  { "name": "Datu Unsay", "province": "Maguindanao del Sur" },
+  { "name": "General Salipada K. Pendatun", "province": "Maguindanao del Sur" },
+  { "name": "Guindulungan", "province": "Maguindanao del Sur" },
+  { "name": "Kabuntalan", "province": "Maguindanao del Norte" },
+  { "name": "Mamasapano", "province": "Maguindanao del Sur" },
+  { "name": "Mangudadatu", "province": "Maguindanao del Sur" },
+  { "name": "Matanog", "province": "Maguindanao del Norte" },
+  { "name": "Northern Kabuntalan", "province": "Maguindanao del Norte" },
+  { "name": "Pagagawan", "province": "Maguindanao del Sur" },
+  { "name": "Pagalungan", "province": "Maguindanao del Sur" },
+  { "name": "Paglat", "province": "Maguindanao del Sur" },
+  { "name": "Pandag", "province": "Maguindanao del Sur" },
+  { "name": "Parang", "province": "Maguindanao del Norte" },
+  { "name": "Rajah Buayan", "province": "Maguindanao del Sur" },
+  { "name": "Shariff Aguak", "province": "Maguindanao del Sur" },
+  { "name": "Shariff Saydona Mustapha", "province": "Maguindanao del Sur" },
+  { "name": "South Upi", "province": "Maguindanao del Sur" },
+  { "name": "Sultan Kudarat", "province": "Maguindanao del Norte" },
+  { "name": "Sultan Mastura", "province": "Maguindanao del Norte" },
+  { "name": "Sultan Sa Barongis", "province": "Maguindanao del Sur" },
+  { "name": "Talayan", "province": "Maguindanao del Sur" },
+  { "name": "Talitay", "province": "Maguindanao del Norte" },
+  { "name": "Upi", "province": "Maguindanao del Norte" },
   { "name": "Hadji Panglima Tahil", "province": "Sulu" },
   { "name": "Indanan", "province": "Sulu" },
   { "name": "Jolo", "province": "Sulu" },
@@ -1752,7 +1674,6 @@
   { "name": "Talipao", "province": "Sulu" },
   { "name": "Tapul", "province": "Sulu" },
   { "name": "Tongkil", "province": "Sulu" },
-
   { "name": "Bongao", "province": "Tawi-Tawi" },
   { "name": "Languyan", "province": "Tawi-Tawi" },
   { "name": "Mapun", "province": "Tawi-Tawi" },
