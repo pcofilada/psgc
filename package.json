@@ -1,6 +1,6 @@
 {
   "name": "psgc",
-  "version": "2.1.2",
+  "version": "2.2.0",
   "description": "Provides PSGC (Philippine Standard Geographic Code) data.",
   "repository": "https://github.com/pcofilada/psgc",
   "author": "Patrick Ofilada <pcofilada@gmail.com> (http://patrickofilada.com)",
