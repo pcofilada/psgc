@@ -3,7 +3,6 @@
     "name": "Metro Manila",
     "region": "NCR"
   },
-
   {
     "name": "Abra",
     "region": "CAR"
@@ -28,7 +27,6 @@
     "name": "Mountain Province",
     "region": "CAR"
   },
-
   {
     "name": "Ilocos Norte",
     "region": "Region I"
@@ -45,7 +43,6 @@
     "name": "Pangasinan",
     "region": "Region I"
   },
-
   {
     "name": "Batanes",
     "region": "Region II"
@@ -66,7 +63,6 @@
     "name": "Quirino",
     "region": "Region II"
   },
-
   {
     "name": "Aurora",
     "region": "Region III"
@@ -95,7 +91,6 @@
     "name": "Zambales",
     "region": "Region III"
   },
-
   {
     "name": "Batangas",
     "region": "Region IV-A"
@@ -116,7 +111,6 @@
     "name": "Rizal",
     "region": "Region IV-A"
   },
-
   {
     "name": "Marinduque",
     "region": "MIMAROPA"
@@ -137,7 +131,6 @@
     "name": "Romblon",
     "region": "MIMAROPA"
   },
-
   {
     "name": "Albay",
     "region": "Region V"
@@ -162,7 +155,6 @@
     "name": "Sorsogon",
     "region": "Region V"
   },
-
   {
     "name": "Aklan",
     "region": "Region VI"
@@ -187,7 +179,6 @@
     "name": "Negros Occidental",
     "region": "Region VI"
   },
-
   {
     "name": "Bohol",
     "region": "Region VII"
@@ -204,7 +195,6 @@
     "name": "Siquijor",
     "region": "Region VII"
   },
-
   {
     "name": "Biliran",
     "region": "Region VIII"
@@ -229,7 +219,6 @@
     "name": "Southern Leyte",
     "region": "Region VIII"
   },
-
   {
     "name": "Zamboanga Del Norte",
     "region": "Region IX"
@@ -242,7 +231,10 @@
     "name": "Zamboanga Sibugay",
     "region": "Region IX"
   },
-
+  {
+    "name": "Isabela City",
+    "region": "Region IX"
+  },
   {
     "name": "Bukidnon",
     "region": "Region X"
@@ -263,7 +255,6 @@
     "name": "Misamis Oriental",
     "region": "Region X"
   },
-
   {
     "name": "Compostela Valley",
     "region": "Region XI"
@@ -284,13 +275,16 @@
     "name": "Davao Oriental",
     "region": "Region XI"
   },
-
   {
     "name": "Cotabato",
     "region": "Region XII"
   },
   {
     "name": "Sarangani",
+    "region": "Region XII"
+  },
+  {
+    "name": "North Cotabato",
     "region": "Region XII"
   },
   {
@@ -301,7 +295,6 @@
     "name": "Sultan Kudarat",
     "region": "Region XII"
   },
-
   {
     "name": "Agusan Del Norte",
     "region": "Region XIII"
@@ -322,25 +315,28 @@
     "name": "Surigao Del Sur",
     "region": "Region XIII"
   },
-
   {
     "name": "Basilan",
-    "region": "ARMM"
+    "region": "BARMM"
   },
   {
     "name": "Lanao Del Sur",
-    "region": "ARMM"
+    "region": "BARMM"
   },
   {
-    "name": "Maguindanao",
-    "region": "ARMM"
+    "name": "Maguindanao del Sur",
+    "region": "BARMM"
+  },
+  {
+    "name": "Maguindanao del Norte",
+    "region": "BARMM"
   },
   {
     "name": "Sulu",
-    "region": "ARMM"
+    "region": "BARMM"
   },
   {
     "name": "Tawi-Tawi",
-    "region": "ARMM"
+    "region": "BARMM"
   }
 ]
